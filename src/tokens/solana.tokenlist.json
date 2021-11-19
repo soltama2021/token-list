@@ -28456,4 +28456,19 @@
     "minor": 3,
     "patch": 3
   }
-}
+}/
+  {
+      "chainId": 101,
+      "address": "STMSXv13iwhDxH2MZa5bTr1pSsn7qH5VRKbuJvMzvkm",
+      "symbol": "STM",
+      "name": "Soltama",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/soltama2021/logo@main/logo.png",
+      "tags": [
+        "meme",
+        "Nft"
+      ],
+      "extensions": {
+        "website" : "http://www.soltama.com/"
+      }
+},
